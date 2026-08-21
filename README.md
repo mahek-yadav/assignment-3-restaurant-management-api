@@ -4,6 +4,8 @@ A RESTful backend API for managing **Restaurants, Menu Items, and User Authentic
 
 This project was developed as part of **Backend Development – Assignment **.
 
+Render deploy link :- https://restaurant-management-api-5mtf.onrender.com
+
 ---
 
 ## 📌 Objective
